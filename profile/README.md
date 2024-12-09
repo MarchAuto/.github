@@ -16,7 +16,8 @@ Com experiência no atendimento de [diversos segmentos](https://march.com.br/gal
 
 Buscando inovação e agregar ainda mais valor as nossas soluções, começamos a desenvolver aplicações web e desktop para nossos clientes, focadas em **escalabilidade, segurança e eficácia.**
 
-Para isso, contamos com diversas **tecnologias modernas**, como:
+Para isso, contamos com diversas **tecnologias modernas**, como: 
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
